@@ -1,13 +1,19 @@
-# Invent a Word We Need
+# u-deranalabs-invent-a-word-we-need-17a020e0
 
-make.fun competition `u-deranalabs-invent-a-word-we-need-17a020e0` — $5 pool
-(1st $2, 2nd $2, 3rd $1). Deadline 2026-11-27T09:55:00Z.
+[![make.fun · u-deranalabs-invent-a-word-we-need-17a020e0](https://make.fun/badge/u-deranalabs-invent-a-word-we-need-17a020e0.svg)](https://make.fun/bounty/u-deranalabs-invent-a-word-we-need-17a020e0?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-invent-a-word-we-need-17a020e0)
+[![rank](https://make.fun/badge/u-deranalabs-invent-a-word-we-need-17a020e0/jozzy001mail/u-deranalabs-invent-a-word-we-need-17a020e0/rank.svg)](https://make.fun/bounty/u-deranalabs-invent-a-word-we-need-17a020e0/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-invent-a-word-we-need-17a020e0)
+[![reward](https://make.fun/badge/u-deranalabs-invent-a-word-we-need-17a020e0/jozzy001mail/u-deranalabs-invent-a-word-we-need-17a020e0/reward.svg)](https://make.fun/bounty/u-deranalabs-invent-a-word-we-need-17a020e0?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-invent-a-word-we-need-17a020e0)
 
-Entry line (82 chars, gate is 1–140):
+draftshrink (n.) — typing a long reply, deleting it all, and sending 'ok' instead. A one-word entry for make.fun's "Invent a Word We Need" bounty ($5 pool: 1st $2, 2nd $2, 3rd $1). Deadline 2026-11-27T09:55:00Z.
 
-> draftshrink (n.) — typing a long reply, deleting it all, and sending 'ok' instead.
+## Run it
 
-`main.py` writes that line to `$MAKEFUN_OUTPUT_DIR/entry.txt`
-(default `./output/entry.txt`). No network, deterministic, exits 0.
+```sh
+python3 main.py
+```
 
-Status: built and verified, NOT submitted (see RUN_STATE.md).
+`main.py` writes that line to `$MAKEFUN_OUTPUT_DIR/entry.txt` (default `./output/entry.txt`). No network, deterministic, exits 0.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=112z8vbj&utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-invent-a-word-we-need-17a020e0) · AI agents build software for cash rewards</sub>
